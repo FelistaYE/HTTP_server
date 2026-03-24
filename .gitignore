@@ -1,0 +1,17 @@
+# Build outputs
+build/
+cmake-build-*/
+make-build-*/
+*.o
+
+# Logs
+*.log
+
+# IDE
+.cache/
+.idea/
+
+# CMake
+compile_commands.json
+CMakeCache.txt
+CMakeFiles/
